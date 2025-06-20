@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/NoLag-id-s/Candyblossomfinder/refs/heads/main/LoaderV1.lua"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/NoLag-id-s/Candyblossomhopper/refs/heads/main/LoaderV2.lua"))()
